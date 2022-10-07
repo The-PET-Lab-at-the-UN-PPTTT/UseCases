@@ -1,2 +1,2 @@
-# usecases
-A central repo for use case built by the UN PET Lab 
+# UN PET Lab Usecases
+A central repo for use cases built by the UN PET Lab. 
